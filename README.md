@@ -1,5 +1,6 @@
 # Git Commands:
 // Just a Cheatcheet for Git Commands to learn them.
+// Nur ein Spickzettel um Git Commands zu lernen.
 ___
 ### Initialisiere ein neues Git Repository
 
